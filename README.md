@@ -43,8 +43,11 @@ Continous Integration is used in my project because it creates an integrated env
 **Conclusion/Future Improvements**
 
 **Author**
+
 Kwame Bamfo-Quaicoe
 
 **Acknowledgements**
+
 Oliver Nichols
+
 Ryan Wright
