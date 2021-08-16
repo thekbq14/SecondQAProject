@@ -68,6 +68,14 @@ I have also ran into issues with GCP that does not allow me to run my Jenkins VM
 
 <img width="651" alt="Screenshot 2021-08-16 085330" src="https://user-images.githubusercontent.com/57040413/129530971-ad97b1e3-ce02-4ef8-99ef-6b3dd3380729.png">
 
+However this was soon fixed and Jenkins was attemepted, however it does break showing the there potentially is an issue somewhere with the program.
+
+<img width="958" alt="Screenshot 2021-08-16 093339" src="https://user-images.githubusercontent.com/57040413/129535501-2a83ca32-76e4-41e2-b0c9-addc1b38057d.png">
+<img width="908" alt="Screenshot 2021-08-16 093404" src="https://user-images.githubusercontent.com/57040413/129535519-7c2d2a60-caab-4fc0-a768-2de3b358b73a.png">
+<img width="881" alt="Screenshot 2021-08-16 093503" src="https://user-images.githubusercontent.com/57040413/129535539-f04d2001-320d-4a86-8707-7c0add443b41.png">
+<img width="797" alt="Screenshot 2021-08-16 093546" src="https://user-images.githubusercontent.com/57040413/129535566-511aef8e-bb2d-4f54-90c5-555bafc5a5f9.png">
+
+
 **Testing**
 
 From the testing results and also because of how the app is produced with no input are being produced which would mean that only unit testing would be needed not integration testing.
@@ -79,7 +87,6 @@ Unit Testing was done so by testing each functions separately and seeing the res
 **Conclusion/Future Improvements**
 
 Overall, do feel like that the program could have been conducted in a much better way, as although every part of the specification was attempted at some point, not everything worked or was fully done to it's best. If done again a lot of changes could be done to it, such as doing Test Driven Development, this is because when programming the app one of the main issues, I had was with coding the unit tests, this could have been avoided by doing this first then building the app around it, however despite using it my experience is limited. Also, would have done a better attempt at Docker, although I did install it and use it for this task it could have been done much more bette and cohesive. I also felt like that I should have been more open and honest to my trainers by asking them for help when I needed it as well.
-
 
 
 **Author**
