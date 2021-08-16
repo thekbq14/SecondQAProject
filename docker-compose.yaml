@@ -1,0 +1,54 @@
+version: 3.8
+
+services:
+
+  nginx:
+    container_name:
+    image:
+    ports:
+    
+    volumes:
+
+    depends_on:
+
+
+  
+  service-1:
+   container_name:
+   image:
+   build:
+    deploy:
+     replicas: 2
+   environment:
+     DATABASE_URI:
+    
+  
+
+  service-2:
+   container_name:
+   image:
+   build:
+    deploy:
+     replicas: 2
+   environment:
+     DATABASE_URI:
+
+
+  service-3:
+   container_name:
+   image:
+   build:
+    deploy:
+     replicas: 2
+   environment:
+     DATABASE_URI:
+
+
+  service-4:
+   container_name:
+   image:
+   build:
+    deploy:
+     replicas: 2
+   environment:
+     DATABASE_URI:
