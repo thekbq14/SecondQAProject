@@ -58,6 +58,16 @@ The app is meant to be produced that there is one main front end application whi
 
 On the application, first page the user will see is the home page. This has been designed in the mind that the user's have already logged in and that this what they first see. What they will be able to see is a list off all the different a city, transport mode and journey time that will change when updated. This works by the different services and APIs interacting with one another. There is only one route that is in use as well, as a result from the looks of it the application seems pretty simple, however though the main aim of the task was to try and connect the different services using Docker and deploying them.
 
+Below will be examples of me trying to run Docker Swarm on the machines, and the different versions of the application that have been attempted to be containerized.
+
+<img width="680" alt="Screenshot 2021-08-16 085412" src="https://user-images.githubusercontent.com/57040413/129530820-e0cff458-07a2-4e7f-9fa6-ca1065fcff37.png">
+<img width="728" alt="Screenshot 2021-08-16 085516" src="https://user-images.githubusercontent.com/57040413/129530845-00e8cfb5-8dc2-4a35-b51d-910f205e4639.png">
+<img width="476" alt="Screenshot 2021-08-16 085620" src="https://user-images.githubusercontent.com/57040413/129530873-8b892625-f732-422c-87a5-4d74caf762a5.png">
+
+I have also ran into issues with GCP that does not allow me to run my Jenkins VM as a result was not able to run Jenkins to automate the tests.
+
+<img width="651" alt="Screenshot 2021-08-16 085330" src="https://user-images.githubusercontent.com/57040413/129530971-ad97b1e3-ce02-4ef8-99ef-6b3dd3380729.png">
+
 **Testing**
 
 From the testing results and also because of how the app is produced with no input are being produced which would mean that only unit testing would be needed not integration testing.
